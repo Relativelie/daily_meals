@@ -1,0 +1,1 @@
+export 'package:daily_meals/screens/favorites/view/view.dart';
